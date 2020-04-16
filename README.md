@@ -8,4 +8,4 @@ Three simple games developed in Unity:
 [Shooting](https://singyaowu.github.io/Unity/ShootingBuilds/index.html): Using Mouse, space and AWSD keys to controll the character and gun. Try to kill all the Capsule enemies!
 
 
-Also, there is also a final game project that is not been uploaded, whose DEMO can be seen [here](https://www.youtube.com/watch?v=yTk2KWPtzQM)
+Also, there is also a final game project that is not been uploaded, whose DEMO can be seen [here](https://www.youtube.com/watch?v=yTk2KWPtzQM).
